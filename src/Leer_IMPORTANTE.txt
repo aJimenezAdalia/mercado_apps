@@ -1,0 +1,50 @@
+#### ESTRUCTURA DEL EDA ####
+
+El código del EDA cuenta con 4 Notebooks:
+
+- 1. EDA - Pre-Análisis, es un Notebook introductorio, donde utilizo los 
+     datasets de la carpeta 'Datasets'.
+
+- 2. Apple - Data Cleaning, proceso de limpieza de los datos de Apple, 
+     donde utilizo un dataset muy pesado que no se adjunta.
+
+- 3. Google - Data Cleaning, proceso de limpieza de los datos de Google, 
+     donde utilizo un dataset muy pesado que no se adjunta.
+
+- 4. Análisis Exploratorio de Datos, proceso de exploración y 
+     visualización de los datos, donde utilizo los datasets 
+     'clean_apple.csv' y 'clean_google.csv' (mismo directorio).
+
+
+#### COSAS A TENER EN CUENTA ####
+
+- Todo el trabajo está hecho en Anaconda 3, por lo que es posible que los 
+  plots y algunos outputs no se muestren de la misma manera en VSC.
+  Para deshabilitar el centrado de outputs, se puede eliminar el código 
+  HTML que utilizo en las importaciones (al principio de los Notebooks).
+
+- Es posible que algún Notebook no muestre los gráficos de Plotly
+  de manera predeterminada. He intentado establecer Plotly offline 
+  pero aún así hay veces que no aparecen los gráficos (hay que correr 
+  las celdas de nuevo para que aparezcan). 
+
+- En los Notebooks 2 y 3 (los de Data Cleaning) los CSV que se leen al 
+  principio pesan en torno a 1GB, por lo que no los adjunto.
+  No correr las celdas en dichos Notebooks.
+
+- El resto de datasets sí van adjuntos.
+
+- Los datasets que se generan del Notebook 2 y 3 son 'clean_apple.csv' y 
+  'clean_google.csv', respectivamente.
+
+#### EN RESUMEN ####
+
+	- Todos los Notebooks se envían listos para su lectura.
+	- Se pueden correr todas las celdas de los Notebooks 1 y 4.
+	- NO CORRER LAS CELDAS DE LOS NOTEBOOKS 2 y 3, datasets muy pesados 
+	  y no adjuntos.
+	- Si tenéis cualquier problema con las visualizaciones (porque no 
+	  se ven o lo que sea), por favor contactadme. ¡Espero que no!
+	  
+
+Gracias !!!
