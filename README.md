@@ -9,7 +9,7 @@ El proyecto se compone de cuatro notebooks .ipynb, ordenados de principio a fin.
 - Notebook 4: Exploración y visualización de los datos. Resultados y propuesta de negocio.
 
 ## Herramientas utilizadas 🛠️
-El proyecto se ha desarrollado por completo en el entorno de desarrollo Jupyter Notebooks de Anaconda 3.
+El proyecto se ha desarrollado por completo en el entorno de desarrollo Jupyter Notebooks de Anaconda, con Python 3.
 
 ## Datos utilizados 📖
 Los datasets utilizados son públicos, y se han obtenido de statcounter y de Kaggle. Más información en los respectivos Notebooks.
