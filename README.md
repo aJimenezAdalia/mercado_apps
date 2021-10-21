@@ -15,7 +15,7 @@ El proyecto se ha desarrollado por completo en el entorno de desarrollo Jupyter 
 Los datasets utilizados son públicos, y se han obtenido de statcounter y de Kaggle. Más información en los respectivos Notebooks.
 
 ## Autor ✒️
-*Antonio Jiménez* - Estudiante del Bootcamp de Data Science en la escuela The Bridge - [aJimenezAdalia]github.com/aJimenezAdalia
+*Antonio Jiménez* - Estudiante del Bootcamp de Data Science en la escuela The Bridge - [aJimenezAdalia](github.com/aJimenezAdalia)
 
 ## Licencia 📄
 Este proyecto es público y se puede descargar, compartir y manipular.
