@@ -1,4 +1,4 @@
-# EDA para The Bridge | Digital Talent Accelerator
+# EDA - Mercado de Apps Móviles
 Exploramos el mercado de las Apps móviles en busca de un nicho de mercado con rentabilidad potencial
 
 ## Estructura 📦
@@ -19,6 +19,3 @@ Los datasets utilizados son públicos, y se han obtenido de statcounter y de Kag
 
 ## Licencia 📄
 Este proyecto es público y se puede descargar, compartir y manipular.
-
-## Expresiones de Gratitud 🎁
-Agradecer a mis profesores y compañeros por todo el apoyo recibido y a la escuela The Bridge por todo el contenido ofrecido.
